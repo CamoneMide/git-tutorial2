@@ -1,2 +1,2 @@
-feature2
-different(conflict 2)
+features
+different(conflicts)
