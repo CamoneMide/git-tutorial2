@@ -1,2 +1,2 @@
-conflict 1
-different
+feature 1
+different (conflict)
